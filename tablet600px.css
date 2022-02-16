@@ -1,0 +1,14 @@
+.tarjeta{
+    display: flex;
+    text-align: left;
+    
+}
+.img{
+    width: 50%;
+    margin-left: 2rem;
+}
+
+p{
+    border-top: none;
+    padding: 2rem;
+}
